@@ -49,3 +49,18 @@
 *Last updated: 2026-09-10* · Powered by [**PushMyCode**](https://github.com/PushMyCode-HQ)
 
 </div>
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Hash Table
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/vtu29441/PST-JAVA-WEEK5/tree/master/0003-longest-substring-without-repeating-characters) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/vtu29441/PST-JAVA-WEEK5/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/vtu29441/PST-JAVA-WEEK5/tree/master/0003-longest-substring-without-repeating-characters) |
+<!---LeetCode Topics End-->
