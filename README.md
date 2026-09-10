@@ -54,6 +54,7 @@
 ## String
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/vtu29441/PST-JAVA-WEEK5/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/vtu29441/PST-JAVA-WEEK5/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/vtu29441/PST-JAVA-WEEK5/tree/master/0796-rotate-string) |
 ## String Matching
@@ -69,4 +70,12 @@
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/vtu29441/PST-JAVA-WEEK5/tree/master/0459-repeated-substring-pattern) |
+## Hash Table
+|  |
+| ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/vtu29441/PST-JAVA-WEEK5/tree/master/0438-find-all-anagrams-in-a-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/vtu29441/PST-JAVA-WEEK5/tree/master/0438-find-all-anagrams-in-a-string) |
 <!---LeetCode Topics End-->
