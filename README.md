@@ -59,6 +59,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/vtu29441/PST-JAVA-WEEK5/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/vtu29441/PST-JAVA-WEEK5/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/vtu29441/PST-JAVA-WEEK5/tree/master/0796-rotate-string) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/vtu29441/PST-JAVA-WEEK5/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## String Matching
 |  |
 | ------- |
@@ -100,4 +101,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vtu29441/PST-JAVA-WEEK5/tree/master/0005-longest-palindromic-substring) |
+## Stack
+|  |
+| ------- |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/vtu29441/PST-JAVA-WEEK5/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 <!---LeetCode Topics End-->
